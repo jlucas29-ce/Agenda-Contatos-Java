@@ -1,0 +1,7 @@
+com\agenda\app\service\ContatoServiceTest$AtualizarTests.class
+com\agenda\app\controller\ContatoControllerIT.class
+com\agenda\app\service\ContatoServiceTest$CriarTests.class
+com\agenda\app\service\ContatoServiceTest$ExcluirTests.class
+com\agenda\app\service\ContatoServiceTest$BuscarPorIdTests.class
+com\agenda\app\service\ContatoServiceTest.class
+com\agenda\app\service\ContatoServiceTest$ListarTests.class
